@@ -2,7 +2,7 @@
 I'm a **Computer Science and Business Administration** student at **Northeastern University**. I am passionate about leveraging diverse ideas, creativity, and business strategies to create products that can improve people’s lives. I have experience with **Java, SQL, Javascript, HTML, and VR/AR technologies** through my coursework.
 
 
-## 🛠 Technical Skills & Tools: <br>
+## 🛠 Technical Skills & Tools:
 Programming Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -25,8 +25,9 @@ IDEs:
 🇺🇸 English (Native)  🇧🇷 Portuguese (Native)  🇪🇸 Spanish (Professional)
 
 
-## 🚀 Projects: <br>
-Sanguine Card Game (Java)							         November 2025 - December 2025
+## 🚀 Projects:
+### ♠️ Sanguine Card Game (Java)  
+*November 2025 – December 2025*
 - Designed a two-player card game in Java 18 using IntelliJ, leveraging Git-based version control and JUnit testing
 - Implemented AI opponent logic, graphical user interface, and custom-made card decks
 - Applied MVC architecture using publisher-subscriber and builder design patterns
@@ -38,7 +39,7 @@ Full-Stack Recipe Book Web App (React, Node.js, JavaScript)			       January 202
 
 
 
-## 💼 Experience: <br>
+## 💼 Experience:
 Software Engineering Intern @ Solom (Remote)					             June 2024 - April 2025
 - Evaluated 10–20 biodiversity data platforms to identify datasets for integration into a sustainability SaaS product
 - Presented weekly research updates in cross-functional team meetings to support product development
@@ -50,7 +51,7 @@ Software Engineering Intern @ InBe (TAMID Group Brandeis University)		       Feb
 
 
 
-## 📫 Contact: <br>
+## 📫 Contact:
 GitHub: github.com/NauriaEO <br>
 LinkedIn: linkedin.com/in/nauria-oliveira <br>
 Email: deoliveira.n@northeastern.edu <br>
