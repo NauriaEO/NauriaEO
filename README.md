@@ -1,5 +1,5 @@
 ## Hi, I'm Nauria Emanuely de Oliveira 👋
-I'm a **Computer Science and Business Administration** student at Northeastern University. I am passionate about leveraging diverse ideas, creativity, and business strategies to create products that can improve people’s lives. I have experience with Java, SQL, Javascript, HTML, and VR/AR technologies through my coursework.
+I'm a **Computer Science and Business Administration** student at **Northeastern University**. I am passionate about leveraging diverse ideas, creativity, and business strategies to create products that can improve people’s lives. I have experience with **Java, SQL, Javascript, HTML, and VR/AR technologies** through my coursework.
 ___________________________________________________________________________________________________________________
 🚀 Projects: <br>
 Sanguine Card Game (Java)							         November 2025 - December 2025
