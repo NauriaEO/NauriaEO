@@ -1,6 +1,15 @@
 ## Hi, I'm Nauria Emanuely de Oliveira 👋
 I'm a **Computer Science and Business Administration** student at **Northeastern University**. I am passionate about leveraging diverse ideas, creativity, and business strategies to create products that can improve people’s lives. I have experience with **Java, SQL, Javascript, HTML, and VR/AR technologies** through my coursework.
 ___________________________________________________________________________________________________________________
+🛠 Technologies & Tools: <br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+___________________________________________________________________________________________________________________
 🚀 Projects: <br>
 Sanguine Card Game (Java)							         November 2025 - December 2025
 - Designed a two-player card game in Java 18 using IntelliJ, leveraging Git-based version control and JUnit testing
