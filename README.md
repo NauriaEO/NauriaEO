@@ -1,6 +1,6 @@
 ## Hi, I'm Nauria Emanuely de Oliveira 👋
 I'm a **Computer Science and Business Administration** student at **Northeastern University**. I am passionate about leveraging diverse ideas, creativity, and business strategies to create products that can improve people’s lives. I have experience with **Java, SQL, Javascript, HTML, and VR/AR technologies** through my coursework.
-___________________________________________________________________________________________________________________
+
 ## 🛠 Technical Skills & Tools: <br>
 Programming Languages:
 <p align="left">
@@ -24,7 +24,8 @@ IDEs:
 - 🇺🇸 English — Native  
 - 🇧🇷 Portuguese — Native  
 - 🇪🇸 Spanish — Professional
-___________________________________________________________________________________________________________________
+
+
 ## 🚀 Projects: <br>
 Sanguine Card Game (Java)							         November 2025 - December 2025
 - Designed a two-player card game in Java 18 using IntelliJ, leveraging Git-based version control and JUnit testing
@@ -36,7 +37,7 @@ Full-Stack Recipe Book Web App (React, Node.js, JavaScript)			       January 202
 - Implemented recipe browsing, 7+ individual recipe pages, dynamic grocery list, and user-submitted recipes
 - Configured Azure alerts to monitor traffic (100+ requests), CPU usage, and memory usage
 
-___________________________________________________________________________________________________________________
+
 ## 💼 Experience: <br>
 
 Software Engineering Intern @ Solom (Remote)					             June 2024 - April 2025
@@ -48,7 +49,7 @@ Software Engineering Intern @ InBe (TAMID Group Brandeis University)		       Feb
 - Collaborated with CEO, CTO, and engineering team to support development of a personalized professional development platform and propose feature improvements to improve system functionality
 - Completed structured training in software engineering fundamentals within a 40+ member development team
 
-___________________________________________________________________________________________________________________
+
 ## 📫 Contact: <br>
 GitHub: github.com/NauriaEO <br>
 LinkedIn: linkedin.com/in/nauria-oliveira <br>
