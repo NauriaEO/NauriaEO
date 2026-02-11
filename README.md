@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Business Administration student at Northeastern University  
 
-I am passionate about leveraging diverse ideas, creativity, and business strategy to build products that improve people’s lives. I have experience with **Java, SQL, JavaScript, HTML/CSS, and VR/AR technologies** through coursework and hands-on projects.
+I’m interested in building software that bridges technical design and real-world impact. My experience spans object-oriented programming, data-driven applications, and emerging technologies such as AR/VR.
 
 ---
 
