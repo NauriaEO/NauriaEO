@@ -22,9 +22,7 @@ IDEs:
 </p>
 
 🌎 Languages
-- 🇺🇸 English — Native  
-- 🇧🇷 Portuguese — Native  
-- 🇪🇸 Spanish — Professional
+🇺🇸 English (Native)  🇧🇷 Portuguese (Native)  🇪🇸 Spanish (Professional)
 
 
 ## 🚀 Projects: <br>
