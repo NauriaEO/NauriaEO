@@ -1,6 +1,7 @@
 ## Hi, I'm Nauria Emanuely de Oliveira 👋
 I'm a **Computer Science and Business Administration** student at **Northeastern University**. I am passionate about leveraging diverse ideas, creativity, and business strategies to create products that can improve people’s lives. I have experience with **Java, SQL, Javascript, HTML, and VR/AR technologies** through my coursework.
 
+
 ## 🛠 Technical Skills & Tools: <br>
 Programming Languages:
 <p align="left">
@@ -38,8 +39,8 @@ Full-Stack Recipe Book Web App (React, Node.js, JavaScript)			       January 202
 - Configured Azure alerts to monitor traffic (100+ requests), CPU usage, and memory usage
 
 
-## 💼 Experience: <br>
 
+## 💼 Experience: <br>
 Software Engineering Intern @ Solom (Remote)					             June 2024 - April 2025
 - Evaluated 10–20 biodiversity data platforms to identify datasets for integration into a sustainability SaaS product
 - Presented weekly research updates in cross-functional team meetings to support product development
@@ -48,6 +49,7 @@ Software Engineering Intern @ Solom (Remote)					             June 2024 - April 
 Software Engineering Intern @ InBe (TAMID Group Brandeis University)		       February 2023 - May 2023
 - Collaborated with CEO, CTO, and engineering team to support development of a personalized professional development platform and propose feature improvements to improve system functionality
 - Completed structured training in software engineering fundamentals within a 40+ member development team
+
 
 
 ## 📫 Contact: <br>
