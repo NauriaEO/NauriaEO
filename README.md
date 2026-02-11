@@ -1,7 +1,7 @@
 ## Hi, I'm Nauria Emanuely de Oliveira 👋
-I'm a Computer Science & Business Administration student at Northeastern University. I like how the language of computers allows people to connect with others anywhere and hope to incorporate diverse ideas into my work through collaboration. I am interested in using my computer science knowledge to create products that can improve people’s lives, while applying business concepts to make people aware of them.
+I'm a **Computer Science and Business Administration** student at Northeastern University. I am passionate about leveraging diverse ideas, creativity, and business strategies to create products that can improve people’s lives. I have experience with Java, SQL, Javascript, HTML, and VR/AR technologies through my coursework.
 ___________________________________________________________________________________________________________________
-👩‍💻 Projects <br>
+🚀 Projects: <br>
 Sanguine Card Game (Java)							         November 2025 - December 2025
 - Designed a two-player card game in Java 18 using IntelliJ, leveraging Git-based version control and JUnit testing
 - Implemented AI opponent logic, graphical user interface, and custom-made card decks
@@ -13,7 +13,7 @@ Full-Stack Recipe Book Web App (React, Node.js, JavaScript)			       January 202
 - Configured Azure alerts to monitor traffic (100+ requests), CPU usage, and memory usage
 
 ___________________________________________________________________________________________________________________
-💼 Experience <br>
+💼 Experience: <br>
 
 Software Engineering Intern @ Solom (Remote)					             June 2024 - April 2025
 - Evaluated 10–20 biodiversity data platforms to identify datasets for integration into a sustainability SaaS product
@@ -25,7 +25,7 @@ Software Engineering Intern @ InBe (TAMID Group Brandeis University)		       Feb
 - Completed structured training in software engineering fundamentals within a 40+ member development team
 
 ___________________________________________________________________________________________________________________
-📫 Let's Connect! <br>
+📫 Contact: <br>
 GitHub: github.com/NauriaEO <br>
 LinkedIn: linkedin.com/in/nauria-oliveira <br>
 Email: deoliveira.n@northeastern.edu <br>
