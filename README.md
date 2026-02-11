@@ -1,4 +1,5 @@
 ## Hi, I'm Nauria Emanuely de Oliveira 👋
+🎓 CS & Business @ Northeastern  University
 ___________________________________________________________________________________________________________________
 👩‍💻 Projects <br>
 Sanguine Card Game (Java)							         November 2025 - December 2025
