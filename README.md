@@ -1,9 +1,9 @@
 ## Hi, I'm Nauria Emanuely de Oliveira 👋
 ___________________________________________________________________________________________________________________
 💼 Experience
-Tutor @ Varsity Tutors (Remote)                                                    				      May 2025 - Present
-Tutor 10+ K–12 students weekly in math and English language arts in both English and Portuguese
-Design tailored lesson plans to improve academic performance, problem-solving skills, and subject mastery
+- Tutor @ Varsity Tutors (Remote)                                                    				      May 2025 - Present
+ - Tutor 10+ K–12 students weekly in math and English language arts in both English and Portuguese
+ - Design tailored lesson plans to improve academic performance, problem-solving skills, and subject mastery
 
 Youth Action Board @ Tempo Young Adult Resource Center (Framingham, MA)		      May 2024 - Present
 Collaborate with 10+ board members weekly to plan outreach initiatives for homeless and at-risk youth
