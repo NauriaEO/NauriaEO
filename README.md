@@ -1,5 +1,5 @@
 ## Hi, I'm Nauria Emanuely de Oliveira 👋
-🎓 CS & Business @ Northeastern  University
+I'm a Computer Science & Business Administration student at Northeastern University. I like how the language of computers allows people to connect with others anywhere and hope to incorporate diverse ideas into my work through collaboration. I am interested in using my computer science knowledge to create products that can improve people’s lives, while applying business concepts to make people aware of them.
 ___________________________________________________________________________________________________________________
 👩‍💻 Projects <br>
 Sanguine Card Game (Java)							         November 2025 - December 2025
