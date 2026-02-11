@@ -52,6 +52,6 @@ Software Engineering Intern @ InBe (TAMID Group Brandeis University)		       Feb
 
 
 ## 📫 Contact:
-GitHub: github.com/NauriaEO <br>
-LinkedIn: linkedin.com/in/nauria-oliveira <br>
-Email: deoliveira.n@northeastern.edu <br>
+GitHub: [github.com/NauriaEO](https://github.com/NauriaEO)
+LinkedIn: [linkedin.com/in/nauria-oliveira](https://linkedin.com/in/nauria-oliveira)
+Email: deoliveira.n@northeastern.edu
