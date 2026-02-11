@@ -2,6 +2,7 @@
 I'm a **Computer Science and Business Administration** student at **Northeastern University**. I am passionate about leveraging diverse ideas, creativity, and business strategies to create products that can improve people’s lives. I have experience with **Java, SQL, Javascript, HTML, and VR/AR technologies** through my coursework.
 ___________________________________________________________________________________________________________________
 🛠 Technical Skills & Tools: <br>
+Programming Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -11,6 +12,7 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
+IDEs:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
