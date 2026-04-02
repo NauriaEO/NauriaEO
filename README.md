@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=FFC0CB&height=250&section=header&text=Nauria%20Emanuely%20de%20Oliveira%20👋&fontSize=50&fontColor=FFFFFF)
-# Hi, I'm Nauria Emanuely de Oliveira 👋
+![header](https://capsule-render.vercel.app/api?type=blur&color=FFC0CB&height=250&section=header&text=Hi,%20I'm$20Nauria%20Emanuely%20de%20Oliveira%20👋&fontSize=50&fontColor=FFFFFF)
 
 🎓 Computer Science & Business Administration student at Northeastern University  
 
